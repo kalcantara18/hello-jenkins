@@ -1,10 +1,11 @@
-package com.kdp.java;
-
-public class HolaMundo {
+public class Hello{
 
 	public static void main(String[] args) {
-		Greeting obj = new Greeting();		
-		System.out.println(ob).greet("Jenkins"));
-	}
 
+		for(int i=1; i<=10;i++){
+	
+		System.out.println("Hello World ..."+i));
+	  }
+
+     }
 }
